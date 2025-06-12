@@ -1,4 +1,4 @@
-# guia-postgre-api
+# Guia De instalacion y configuracion de PostgreSQL para nuestra API
 Guía paso a paso para conectar tu base de datos a tu API.
 
 
